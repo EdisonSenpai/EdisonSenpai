@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+<rect fill="#fff" width="600" height="400" stroke="#CCC"/><circle fill="#bc002d" cx="300" cy="200" r="120"/>
+<text style="font-family:Gulim;font-weight:900" font-size="78" y="228">
+<tspan style="fill:none;stroke:#F88;stroke-width:2" x="177">日</tspan><tspan style="fill:none;stroke:#F88;stroke-width:2" x="247">本語</tspan>
+<tspan x="177">日</tspan><tspan x="247">本語</tspan></text></svg>
