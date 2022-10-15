@@ -6,7 +6,22 @@ I'm a student at University POLITEHNICA of Bucharest in my 2nd year of bachelor 
 
 <p align="center">
 
-
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/c.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/c++.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/c#.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/html5.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/css3.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/js.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/xml.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/dtd.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/json.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/latex.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/unity.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/visual_studio.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/photoshop.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/autocad.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/matlab.png" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/office.svg" height="auto" width="40">
 
 </p>
 
