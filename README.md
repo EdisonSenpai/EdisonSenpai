@@ -4,7 +4,7 @@ I'm a student at University POLITEHNICA of Bucharest in my 2nd year of bachelor 
 
 ## Skills
 
-<p align="center">
+<p align="left">
 
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/c.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/c%2B%2B.svg" height="auto" width="40">
