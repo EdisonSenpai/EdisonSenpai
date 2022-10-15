@@ -19,23 +19,36 @@ I'm a student at University POLITEHNICA of Bucharest in my 2nd year of bachelor 
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/unity.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/visual_studio.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/photoshop.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/linux.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/autocad.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/matlab.png" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/office.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/japanese_language.svg" height="auto" width="40">
 
 </p>
 
-<!--
-**EdisonSenpai/EdisonSenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I’m currently learning:
 
-Here are some ideas to get you started:
+- OOP
+- Japanese for JLPT
+- Game Development (design & code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I want to learn:
+
+- Java
+- MySql 
+
+### 😄 Other things I enjoy beside coding:
+
+- playing on guitar :guitar:
+- watching anime :movie_camera:
+- reading manga :books:
+- playing video games :video_game:
+- building computers :computer:
+
+### 📫 Contact me on:
+
+- Facebook: https://www.facebook.com/eduard.donea.9/
+- Instagram: https://www.instagram.com/edy_donea/
+- Twitter: https://twitter.com/DoneaEdy/
+- LinkedIn: https://www.linkedin.com/in/eduard-donea-74108924a/
