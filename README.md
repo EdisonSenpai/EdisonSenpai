@@ -52,3 +52,5 @@ I'm a student at University POLITEHNICA of Bucharest in my 2nd year of bachelor 
 - Instagram: https://www.instagram.com/edy_donea/
 - Twitter: https://twitter.com/DoneaEdy/
 - LinkedIn: https://www.linkedin.com/in/eduard-donea-74108924a/
+- Gmail: edardstark85@gmail.com
+- Yahoo: edu_donea@yahoo.com
