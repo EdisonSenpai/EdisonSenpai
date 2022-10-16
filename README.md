@@ -1,4 +1,4 @@
-# Hello there or こんにちは in Japanese ^^ 👋 My name is Eduard!
+# Hello there or こんにちは in Japanese 👋 My name is Eduard!
 
 I'm a student at University POLITEHNICA of Bucharest in my 2nd year of bachelor degree, Faculty of Automatic Control and Computer Science, Systems Engineering field, where I'm studying to become an engineer :blush: Currently I know both Front End and Back End programming, creating websites from scratch using HTML, CSS and JavaScript and making games in Unity using C# and Java sometimes. I'm also learning Japanese and teaching as well in online classes, a skill I want to expand more and make use of it in my career of engineer and teacher :smiley:
 
