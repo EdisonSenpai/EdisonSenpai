@@ -29,7 +29,7 @@ I'm a student at University POLITEHNICA of Bucharest in my 2nd year of bachelor 
 
 ### 🌱 I’m currently learning:
 
-- OOP
+- OOP (intermediate)
 - Japanese for JLPT
 - Game Development (design & code)
 
