@@ -31,13 +31,13 @@ I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor 
 
 - DB 
 - OOP (advanced)
+- Java
 - Japanese for JLPT
 - Game Development (design & code)
 
 ### 🔭 I want to learn:
 
-- Java
-- MySql 
+- Cisco CCNA 1
 
 ### 😄 Other things I enjoy beside coding:
 
