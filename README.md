@@ -34,10 +34,11 @@ I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor 
 - Java
 - Japanese for JLPT
 - Game Development (design & code)
+- Cisco CCNA 1
 
 ### 🔭 I want to learn:
 
-- Cisco CCNA 1
+- Networking
 
 ### 😄 Other things I enjoy beside coding:
 
