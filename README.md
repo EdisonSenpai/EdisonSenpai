@@ -1,6 +1,6 @@
 # Hello there or こんにちは in Japanese 👋 My name is Eduard!
 
-I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor degree, Faculty of Automatic Control and Computer Science, Systems Engineering field, where I'm studying to become an engineer. Currently I know both Front End and Back End programming, creating websites from scratch using HTML, CSS (including here Tailwind) and JavaScript (including here React and Vue) and making games in Unity using C# and Java sometimes. I'm also learning Japanese and teaching as well in online classes, a skill I want to expand more and make use of it in my career of engineer and teacher :smiley:
+I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor degree, Faculty of Automatic Control and Computer Science, Systems Engineering field, where I'm studying to become an engineer. Currently I know both Front End and Back End programming, creating websites from scratch using HTML, CSS (including here Tailwind) and JavaScript (including here React and Vue), making games in Unity using C#, Pyton (Pygame) and Java, and using concepts of Machine Learning in different projects. I'm also learning Japanese and teaching as well in online classes, a skill I want to expand more and make use of it in my career of engineer and teacher :smiley:
 
 ## Skills
 
@@ -27,16 +27,16 @@ I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor 
 
 ### 🌱 I’m currently learning:
 
-- DB 
-- OOP (advanced)
-- Java
-- Japanese for JLPT
-- Game Development (design & code)
-- Cisco CCNA 1
+- DB (intermediate)
+- ML (intermediate)
+- Java (intermediate)
+- Japanese for JLPT (N4)
+- Game Development in Unity & UE5 (design & code) (intermediate)
 
 ### 🔭 I want to learn:
 
 - Networking
+- Cisco CCNA 2
 
 ### 😄 Other things I enjoy beside coding:
 
