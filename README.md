@@ -27,9 +27,9 @@ I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor 
 
 ### 🌱 I’m currently learning:
 
-- DB (intermediate)
 - ML (intermediate)
 - Java (intermediate)
+- DB (intermediate)
 - Japanese for JLPT (N4)
 - Game Development in Unity & UE5 (design & code) (intermediate)
 
