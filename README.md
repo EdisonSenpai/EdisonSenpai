@@ -21,15 +21,6 @@ I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor 
 - Networking
 - Cisco CCNA 2
 
-### 😄 Other things I enjoy beside coding:
-
-- playing on guitar :guitar:
-- watching anime :movie_camera:
-- reading manga :books:
-- playing video games :video_game:
-- building computers :computer:
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EdisonSenpai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdisonSenpai&theme=dark&hide_border=false)<br/>
@@ -43,6 +34,14 @@ I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EdisonSenpai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😄 Other things I enjoy beside coding:
+
+- playing on guitar :guitar:
+- watching anime :movie_camera:
+- reading manga :books:
+- playing video games :video_game:
+- building computers :computer:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EdisonSenpai&icon=0&color=1)](https://visitcount.itsvg.in)
