@@ -9,6 +9,8 @@ I'm a student at University POLITEHNICA of Bucharest in my 3rd year of bachelor 
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/c.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/c%2B%2B.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/c%23.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/python.svg" height="auto" width="40">
+  <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/java.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/html5.svg" height="auto" width="55">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/css3.svg" height="auto" width="40">
   <img src="https://raw.githubusercontent.com/EdisonSenpai/EdisonSenpai/main/assets/js.svg" height="auto" width="40">
